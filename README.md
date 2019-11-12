@@ -1,7 +1,7 @@
 
 # aircnc-react
 
-Aircnc - Application to register spots on your office to developers book, based on their skills.
+Aircnc - Application to register spots on your office to developers book based on their skills.
 
 Made using React framework and NodeJS
 
